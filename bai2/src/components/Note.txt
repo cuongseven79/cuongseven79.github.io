@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+
+CÁC NHIỆM VỤ CẦN LÀM 
+
+1. Làm Giỏ hàng để người dùng add vào.
+2. Làm Login để lưu thông tin Users
+3. Làm bar Search để tìm kiếm sản phẩm
+5. Link các mục còn thiếu: ( KHUYẾN MÃI, CHẾ ĐỘ BẢO HÀNH , KINH NGHIỆM,..)
+4. Thay bar Left thành hình quảng cáo
+6. Responsive.
